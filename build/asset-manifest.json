@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.878fdafb.css",
+    "main.js": "/static/js/main.e2f86252.js",
+    "static/js/787.a617862a.chunk.js": "/static/js/787.a617862a.chunk.js",
+    "static/media/g3.png": "/static/media/g3.2157028ab902ce6f9de0.png",
+    "static/media/edisoni.jpg": "/static/media/edisoni.ff206132b5fa23d1c45c.jpg",
+    "static/media/ali.png": "/static/media/ali.a5af5e441a101033dd9d.png",
+    "index.html": "/index.html",
+    "main.878fdafb.css.map": "/static/css/main.878fdafb.css.map",
+    "main.e2f86252.js.map": "/static/js/main.e2f86252.js.map",
+    "787.a617862a.chunk.js.map": "/static/js/787.a617862a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.878fdafb.css",
+    "static/js/main.e2f86252.js"
+  ]
+}
